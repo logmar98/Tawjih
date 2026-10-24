@@ -10,6 +10,18 @@
 [![Vite](https://img.shields.io/badge/Vite-5.4-646cff?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 ---
+### 🎥 Démo Vidéo • Video Walkthrough
+
+<p align="center">
+  <video src="./video/vd.mp4" controls="controls" width="100%" style="max-height: 520px; border-radius: 12px; border: 1px solid #334155; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+    <source src="./video/vd.mp4" type="video/mp4">
+    Votre navigateur ne supporte pas la balise vidéo. <a href="./video/vd.mp4">Cliquez ici pour voir la vidéo de démonstration (video/vd.mp4)</a>.
+  </video>
+</p>
+
+> 🎬 **Aperçu Démo :** *Démonstration complète montrant la navigation hiérarchique à 4 niveaux de l'Espace Enseignant, la simulation de chute/hausse des notes de Mathématiques, et la réactivité instantanée du Passeport Élève avec les alertes IA.*
+
+---
 
 > ### ⚡ Executive Summary • Quick Look (TL;DR)
 >
